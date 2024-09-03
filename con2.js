@@ -127,12 +127,11 @@ let bmiRounded = bmi.toFixed(2); // Convert to string with two decimal places
 let bmiNumber = parseFloat(bmiRounded); // Convert back to number
 
 // Output the BMI and health category
-console.log("Your BMI is: " + bmiRounded);
+// console.log("Your BMI is: " + bmiRounded);
 console.log("You are " + category);
 
 // Now you can use bmiNumber for calculations
-console.log("Your BMI:", bmiNumber);
-
+console.log("BMI as a number:", bmiNumber);
 
 
 
