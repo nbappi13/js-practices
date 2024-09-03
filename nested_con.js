@@ -1,6 +1,6 @@
 // Your score and friend's score
 let yourScore = 85;
-let friendScore = 75;
+let friendScore = 85;
 
 // Main condition based on your score
 if (yourScore > 80) {
