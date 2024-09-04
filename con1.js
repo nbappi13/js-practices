@@ -1,9 +1,11 @@
-// Problem: 01-------------------
+// --------------------------------Problem-------------------
 
 // Free Drinks
 //     - Burger more than 500tk: free Coke
 //     - Else Coke: 30tk
 
+
+// -------------------------------- Solution-------------------
 
 let burgerPrice = 650;
 
