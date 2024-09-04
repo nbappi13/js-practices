@@ -10,7 +10,7 @@
 // also, write it using ternary operator.
 
 
-// ---------------------Solution----------------------------------------
+// ---------------------Solution-01----------------------------------------
 
 // ------simple method----------
 
@@ -28,7 +28,8 @@
 // console.log(result);
 
 
-// ----------Ternary method ------
+// ----------solution-02------------------Ternary method --------------
+
 
 let num1 = 10;
 let num2 = 5;
